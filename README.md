@@ -1,4 +1,4 @@
-# Library-Management-System
+
 # Library Management System
 
 A complete Library Management System built as a desktop application using Tkinter or a web app using Django. It manages books, users, borrowing/return activity, late fee calculations, and real-time inventory tracking.
